@@ -4,6 +4,9 @@ h1 {
 body {
   padding-top: 5rem; }
 
+a.text-dark:focus, a.text-dark:hover {
+  color: #F49AC1 !important; }
+
 .gallery {
   width: 640px;
   margin: 0 auto; }
