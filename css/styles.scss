@@ -115,3 +115,14 @@ footer {
   border-top: .05rem solid #e5e5e5;
   background-color: #f9f9f9;
 }
+
+.btn-outline-secondary {
+    color: #F49AC1;
+    border-color: #F49AC1;
+}
+
+.btn:hover {
+    background-color: #F49AC1;
+    border-color: #F49AC1;
+    text-decoration: none;
+}
